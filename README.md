@@ -14,5 +14,5 @@
             Oracle database
             Sql server
             
-- 📫 Portifolio under construction.
+- 📫 Portifolio: https://lelou123.github.io/Portifolio/ (under construction.)
 
