@@ -14,6 +14,8 @@
             Oracle database
             SQL Server
             PostgreSQL
+            
+            
 <div align="center">
   <a href="https://github.com/Lelou123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lelou123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +30,8 @@
   <a href="https://www.linkedin.com/in/murillo-júlio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-            
-- 📫 Portifolio: https://lelou123.github.io/Portifolio/ (In need of some update... soon will come.)
+        
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+        
+- 📫 Portifolio: lelou123.github.io/Portifolio/ (In need of some update... soon will be updated.)
 
