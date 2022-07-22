@@ -5,12 +5,14 @@
 - 👀 I’m interested in software software engineering, and web development.
 
 - 🌱 I’m currently learning:  
-         - Web dev:
+          Web dev:
             Html, Css, Javascript.
-         - Programming language:>
+            
+          Programming language:>
             C(c++ and c# too ).
             Pyton (automating boring any task).
-         - Database:
+            
+           Database:
             Oracle database
             SQL Server
             PostgreSQL
